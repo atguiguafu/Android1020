@@ -1,4 +1,4 @@
-public class HellJava{
-
+public class HelloJava{
+  hello
 
 }
